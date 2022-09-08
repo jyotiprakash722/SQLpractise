@@ -14,7 +14,4 @@ CREATE TABLE library (
 
 describe library;
 
-SELECT 
-    *
-FROM
-    library;
+SELECT * FROM library;
