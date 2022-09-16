@@ -1,0 +1,9 @@
++------------+--------+------------------+-------------+
+| Student_ID | Name   | Major            | Home_Town   |
++------------+--------+------------------+-------------+
+|          1 | Jack   | Biology          | Florida     |
+|          2 | Kate   | Sociology        | Oklahoma    |
+|          3 | Claire | English          | New Orleans |
+|          4 | Jack   | Biology          | New York    |
+|          5 | Mike   | Computer Science | Florida     |
++------------+--------+------------------+-------------+
